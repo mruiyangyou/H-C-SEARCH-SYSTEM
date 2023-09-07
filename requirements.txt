@@ -4,3 +4,4 @@ numpy
 boto3
 s3fs
 git+https://github.com/streamlit/files-connection
+openpyxl
